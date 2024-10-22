@@ -1,5 +1,6 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# Date:10/10/24
+# Date:17.10.2024
+## reg no:212223220073
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
@@ -68,9 +69,7 @@ void yyerror(const char *s) {
 }
 ```
 # OUTPUT
-
-![image](https://github.com/user-attachments/assets/25335a30-ebca-486a-9d8f-e5986baae4c8)
-
+![377385984-4501d0f4-13db-46af-a8a1-3addc5b0b377](https://github.com/user-attachments/assets/bf7c7dd1-f55a-48f1-b574-4febb81059ba)
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
